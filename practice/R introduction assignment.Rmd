@@ -1,7 +1,7 @@
 ---
 title: "R introduction assignment"
-author: "Oleksii Yehorchenkov"
-date: "30 11 2020"
+author: "Mirza Delić"
+date: "08 12 2020"
 output: html_document
 ---
 
